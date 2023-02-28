@@ -1,0 +1,46 @@
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+  --font-recoleta: Recoleta;
+  --font-dm-serif-text: "DM Serif Text";
+
+  /* font sizes */
+  --font-size-5xs: 10.43px;
+  --font-size-4xs: 10.67px;
+  --font-size-3xs: 12.39px;
+  --font-size-2xs: 14px;
+  --font-size-xs: 14.64px;
+  --font-size-sm: 15.54px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 18.58px;
+  --font-size-2xl: 22.49px;
+  --font-size-3xl: 24px;
+  --font-size-4xl: 25.3px;
+  --font-size-5xl: 30px;
+
+  /* Colors */
+  --white: #fff;
+  --color-gray-100: #1f1f1f;
+  --color-gray-200: #061c41;
+  --color-orange-100: #f89f1c;
+  --color-orange-200: #ea9212;
+  --color-black: #000;
+  --color-mediumslateblue: #005df2;
+  --color-silver: #bebebe;
+  --color-dimgray: #515151;
+  --color-darkslategray: #373737;
+  --color-lavender: #d2e3ff;
+  --color-deepskyblue: #5bbaef;
+  --color-goldenrod: #f9c643;
+  --color-lightcoral: #e27070;
+  --color-slategray: #454a6d;
+
+  /* border radiuses */
+  --br-2xs: 5px;
+  --br-xs: 5.52px;
+  --br-sm: 6.62px;
+  --br-md: 8.63px;
+  --br-lg: 9px;
+  --br-xl: 16.27px;
+}
